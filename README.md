@@ -11,7 +11,7 @@ O componente `<button />` permite receber propriedades que aplicam estilos.
 
 Permite criar classes de estilos onde o React renomeia cada classe para um nome exclusivo.
 
-### **styled-component**
+### **styled-components**
 
-Styled-component é um plugin que permite escrever CSS usando a sintaxe JavaScript.
+Styled-components é um plugin que permite escrever CSS usando a sintaxe JavaScript.
 
